@@ -1,0 +1,19 @@
+<div class="table-responsive p-2">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>CPL</th>
+                            <th>Mata Kuliah</th>
+                            <th>CPMK</th>
+                            <th>MBKM</th>
+                            <th>Partisipasi (Kehadiran/Quiz)</th>
+                            <th>Observasi (Praktik/Tugas)</th>
+                            <th>Unjuk Kerja (Presentasi)</th>
+                            <th>Tes Tulis (UTS)</th>
+                            <th>Tes Tulis (UAS)</th>
+                            <th>Tes Lisan (Tugas Kelompok)</th>
+                            <th>Aksi</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>

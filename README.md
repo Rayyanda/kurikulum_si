@@ -20,7 +20,7 @@ Ini adalah project Laravel yang sudah saya upload ke GitHub. Berikut langkah-lan
 ## Langkah-langkah
 
 # 1. Clone Repository
-    git clone https://github.com/Rayyanda/websi2025.git
+    git clone https://github.com/Rayyanda/kurikulum_si.git
     cd nama-project
 
 # 2. Install Dependencies
